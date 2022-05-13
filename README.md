@@ -1,6 +1,6 @@
 ### Hi there 👋
-
-<!--
+I'm currently learning how to use github 
+<!--I need help on navigating through it 
 **AhmedOlalekan275/Ahmedolalekan275** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
